@@ -35,9 +35,32 @@ Finalmente, comprobé que la página funcionara correctamente en distintos dispo
 
 [Enlace a pagina](https://gymgoers.page.gd/ "Títol opcional")
 
-## Explicacion del Portal
+# Explicacion del Portal
+
 ![Text alternatiu](Imagen1.png "Títol opcional")
-Esta pagina web consiste en ayudar a principantes del gym, esta pagina nació con la idea de demostrar que todos podemos mejorar nuestra salud y nuestro cuerpo paso a paso.
-En esta web puedes encontrar rutinas simples, explicaciones faciles y recomendaciones para entrenar.
+
+*Esta pagina web consiste en ayudar a principantes del gym, esta pagina nació con la idea de demostrar que todos podemos mejorar nuestra salud y nuestro cuerpo paso a paso.
+En esta web puedes encontrar rutinas simples, explicaciones faciles y recomendaciones para entrenar.*
+
+## Posts
+*En el apartado de Posts hay varias entradas de diferente topicos*
+
+![Text alternatiu](post1.png "Títol opcional")
+
+## Alimentacion
+*En esta seccion podras encontrarte como alimentarte bien para recuperar y ganar musculo rapidamente. Incluye Desayunos, cenas, Pre-entreno y Post-entreno.*
+
+![Text alternatiu](post2.png "Títol opcional")
+
+## Suplementos ( Tienda )
+*Cree una tienda en mi pagina web para facilitar a los usuarios, creandolo en mi propia pagina estaria mejor porque asi los usuarios no tienen que ir cambiando de paginas para consejos y comprar etc...*
+
+![Text alternatiu](sup.png "Títol opcional")
+
+## Buscador y Traductor
+*Implemnté un Buscador y un Traducotr en esta pagina para que sea accessible para todas las personas.*
+
+![Text alternatiu](tradu.png "Títol opcional")
+
 
 
