@@ -1,4 +1,4 @@
-# Pr-ctica-Tema-3---Instal-laci-i-Configuraci-de-WordPress
+# Practica-Tema-3---Instalalacion-Configuracion-de-WordPress
 
 ## Descripción del proyecto
 
