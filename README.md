@@ -34,3 +34,10 @@ Durante el desarrollo también configuré algunos elementos importantes del siti
 Finalmente, comprobé que la página funcionara correctamente en distintos dispositivos, tanto en ordenadores como en móviles, asegurándome de que el diseño fuera **responsiva** y fácil de navegar para cualquier usuario.
 
 [Enlace a pagina](https://gymgoers.page.gd/ "Títol opcional")
+
+## Explicacion del Portal
+![Text alternatiu](imagen1.png "Títol opcional")
+Esta pagina web consiste en ayudar a principantes del gym, esta pagina nació con la idea de demostrar que todos podemos mejorar nuestra salud y nuestro cuerpo paso a paso.
+En esta web puedes encontrar rutinas simples, explicaciones faciles y recomendaciones para entrenar.
+
+
