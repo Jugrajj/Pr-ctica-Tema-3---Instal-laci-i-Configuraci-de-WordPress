@@ -6,18 +6,17 @@ Para realizar este proyecto he desarrollado una página web para para principant
 
 ## Instalación y configuración
 
-En primer lugar, instalé **WordPress** y realicé la configuración inicial del sitio. Después seleccioné un tema visual adecuado para una web de noticias deportivas (por ejemplo, *SportPress*), que permite mostrar la información de forma clara y atractiva.
+En primer lugar, instalé **LAMP** y luego instalé **Wordpress**. Después seleccioné un tema visual adecuado. que permite mostrar la información de forma clara y atractiva.
 
 Posteriormente personalicé el diseño del portal modificando diferentes elementos como el menú de navegación, los colores principales, la estructura de la página de inicio y las distintas secciones de la web para mejorar la experiencia de los usuarios.
 
 ## Organización del contenido
 
-A continuación, creé varias **categorías** para organizar correctamente las noticias. Algunas de estas categorías incluyen:
+A continuación, creé varias **categorías** para organizar correctamente. Algunas de estas categorías incluyen:
 
-- Partidos
-- Fichajes
-- Competiciones
-- Equipos
+- Posts
+- Alimentacion
+- Suplementos (Tienda)
 
 También publiqué varios artículos de prueba añadiendo títulos, textos, imágenes destacadas y etiquetas para simular el funcionamiento real de un portal de noticias.
 
